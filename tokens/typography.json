@@ -1,0 +1,9 @@
+{
+  "font": {
+    "largeTitle": { "value": 32 },
+    "title": { "value": 24 },
+    "body": { "value": 16 },
+    "caption": { "value": 12 },
+    "mono": { "value": 14 }
+  }
+}

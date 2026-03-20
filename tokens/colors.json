@@ -1,0 +1,18 @@
+{
+  "color": {
+    "brand": {
+      "primary": { "value": "#375DFB" }
+    },
+    "bg": {
+      "page": { "value": "#FFFFFF" },
+      "surface": { "value": "#F8FAFC" }
+    },
+    "text": {
+      "primary": { "value": "#0A0D14" },
+      "secondary": { "value": "#868C98" }
+    },
+    "semantic": {
+      "destructive": { "value": "#EF4444" }
+    }
+  }
+}
